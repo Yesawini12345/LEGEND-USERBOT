@@ -1,5 +1,5 @@
 # LEGEND-USERBOT
-[![LEGENDBOT](https://te.legra.ph/file/15fd5635eb2232fa1b678.jpg)](https://github.com/Yesawini12345/LEGENDBOT)
+[![LEGENDBOT](https://te.legra.ph/file/13a70d19d653bbc6be79c.jpg)](https://github.com/Yesawini12345/LEGEND-USERBOT)
 
 <h1 align="center">
 <b> 『Lêɠêɳ̃dẞø†』 </b>
@@ -11,7 +11,7 @@
 
 
 [![](https://img.shields.io/badge/LegendBot-v1.0-blue)](#)
-[![Stars](https://img.shields.io/github/stars/LEGEND-AI/LEGENDBOT?style=flat-square&color=yellow)](https://github.com/LEGEND-AI/LEGENDBOT/stargazers)
+[![Stars](https://img./stargazers)
 [![Forks](https://img.shields.io/github/forks/LEGEND-AI/LEGENDBOT?style=flat-square&color=orange)](https://github.com/LEGEND-AI/LEGENDBOT/fork)
 [![Size](https://img.shields.io/github/repo-size/LEGEND-AI/LEGENDBOT?style=flat-square&color=green)](https://github.com/LEGEND-AI/LEGENDBOT/)   
 [![Python](https://img.shields.io/badge/Python-v3.10.2-blue)](https://www.python.org/)
@@ -58,15 +58,15 @@
 
 ## Repl
 
-@Decode_String_bot
+https://t.me/Decode_String_bot
 
 - To Get Details Of StringSession Follow Step: 
-- Go To Telegram And Search @Decode_String_bot
+- Go To Telegram And Search https://t.me/Decode_String_bot
 - Click Sta
-- Send Ur Phone Number To @Decode_String_bot
+- Send Ur Phone Number To https://t.me/Decode_String_bot
 - U Received Code From Telegram Like This=278291
 - Copy Ur Code
-- Send The Code To @Decode_String_bot with Each Space
+- Send The Code To https://t.me/Decode_String_bot with Each Space
 - Check SAVED MESSAGE
 
 ### Terminal
